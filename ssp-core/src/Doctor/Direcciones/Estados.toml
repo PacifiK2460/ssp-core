@@ -1,0 +1,498 @@
+[[estados]]
+codigo = "AGU"
+nombre = "Aguascalientes"
+pais = "MEX"
+[estados.codigoPostal]
+rango = [20000, 20999]
+[[estados.municipio]]
+nombre = "Aguascalientes"
+[[estados.municipio]]
+nombre = "Asientos"
+[[estados.municipio]]
+nombre = "Calvillo"
+[[estados.municipio]]
+nombre = "Cosío"
+[[estados.municipio]]
+nombre = "Jesús María"
+[[estados.municipio]]
+nombre = "Pabellón de Arteaga"
+[[estados.municipio]]
+nombre = "Rincón de Romos"
+[[estados.municipio]]
+nombre = "San José de Gracia"
+[[estados.municipio]]
+nombre = "Tepezalá"
+[[estados.municipio]]
+nombre = "El Llano"
+[[estados.municipio]]
+nombre = "San Francisco de los Romo"
+
+[[estados]]
+codigo = "BCN"
+nombre = "Baja California"
+pais = "MEX"
+
+[[estados]]
+codigo = "BCS"
+nombre = "Baja California Sur"
+pais = "MEX"
+
+[[estados]]
+codigo = "CAM"
+nombre = "Campeche"
+pais = "MEX"
+
+[[estados]]
+codigo = "CHP"
+nombre = "Chiapas"
+pais = "MEX"
+
+[[estados]]
+codigo = "CHH"
+nombre = "Chihuahua"
+pais = "MEX"
+
+[[estados]]
+codigo = "COA"
+nombre = "Coahuila"
+pais = "MEX"
+
+[[estados]]
+codigo = "COL"
+nombre = "Colima"
+pais = "MEX"
+
+[[estados]]
+codigo = "CMX"
+nombre = "Ciudad de México"
+pais = "MEX"
+
+[[estados]]
+codigo = "DUR"
+nombre = "Durango"
+pais = "MEX"
+
+[[estados]]
+codigo = "GUA"
+nombre = "Guanajuato"
+pais = "MEX"
+
+[[estados]]
+codigo = "GRO"
+nombre = "Guerrero"
+pais = "MEX"
+
+[[estados]]
+codigo = "HID"
+nombre = "Hidalgo"
+pais = "MEX"
+
+[[estados]]
+codigo = "JAL"
+nombre = "Jalisco"
+pais = "MEX"
+
+[[estados]]
+codigo = "MEX"
+nombre = "Estado de México"
+pais = "MEX"
+
+[[estados]]
+codigo = "MIC"
+nombre = "Michoacán"
+pais = "MEX"
+
+[[estados]]
+codigo = "MOR"
+nombre = "Morelos"
+pais = "MEX"
+
+[[estados]]
+codigo = "NAY"
+nombre = "Nayarit"
+pais = "MEX"
+
+[[estados]]
+codigo = "NLE"
+nombre = "Nuevo León"
+pais = "MEX"
+
+[[estados]]
+codigo = "OAX"
+nombre = "Oaxaca"
+pais = "MEX"
+
+[[estados]]
+codigo = "PUE"
+nombre = "Puebla"
+pais = "MEX"
+
+[[estados]]
+codigo = "QUE"
+nombre = "Querétaro"
+pais = "MEX"
+
+[[estados]]
+codigo = "ROO"
+nombre = "Quintana Roo"
+pais = "MEX"
+
+[[estados]]
+codigo = "SLP"
+nombre = "San Luis Potosí"
+pais = "MEX"
+
+[[estados]]
+codigo = "SIN"
+nombre = "Sinaloa"
+pais = "MEX"
+
+[[estados]]
+codigo = "SON"
+nombre = "Sonora"
+pais = "MEX"
+
+[[estados]]
+codigo = "TAB"
+nombre = "Tabasco"
+pais = "MEX"
+
+[[estados]]
+codigo = "TAM"
+nombre = "Tamaulipas"
+pais = "MEX"
+
+[[estados]]
+codigo = "TLA"
+nombre = "Tlaxcala"
+pais = "MEX"
+
+[[estados]]
+codigo = "VER"
+nombre = "Veracruz"
+pais = "MEX"
+
+[[estados]]
+codigo = "YUC"
+nombre = "Yucatán"
+pais = "MEX"
+
+[[estados]]
+codigo = "ZAC"
+nombre = "Zacatecas"
+pais = "MEX"
+
+[[estados]]
+codigo = "AL"
+nombre = "Alabama"
+pais = "USA"
+
+[[estados]]
+codigo = "AK"
+nombre = "Alaska"
+pais = "USA"
+
+[[estados]]
+codigo = "AZ"
+nombre = "Arizona"
+pais = "USA"
+
+[[estados]]
+codigo = "AR"
+nombre = "Arkansas"
+pais = "USA"
+
+[[estados]]
+codigo = "CA"
+nombre = "California"
+pais = "USA"
+
+[[estados]]
+codigo = "NC"
+nombre = "Carolina del Norte"
+pais = "USA"
+
+[[estados]]
+codigo = "SC"
+nombre = "Carolina del Sur"
+pais = "USA"
+
+[[estados]]
+codigo = "CO"
+nombre = "Colorado"
+pais = "USA"
+
+[[estados]]
+codigo = "CT"
+nombre = "Connecticut"
+pais = "USA"
+
+[[estados]]
+codigo = "ND"
+nombre = "Dakota del Norte"
+pais = "USA"
+
+[[estados]]
+codigo = "SD"
+nombre = "Dakota del Sur"
+pais = "USA"
+
+[[estados]]
+codigo = "DE"
+nombre = "Delaware"
+pais = "USA"
+
+[[estados]]
+codigo = "FL"
+nombre = "Florida"
+pais = "USA"
+
+[[estados]]
+codigo = "GA"
+nombre = "Georgia"
+pais = "USA"
+
+[[estados]]
+codigo = "HI"
+nombre = "Hawái"
+pais = "USA"
+
+[[estados]]
+codigo = "ID"
+nombre = "Idaho"
+pais = "USA"
+
+[[estados]]
+codigo = "IL"
+nombre = "Illinois"
+pais = "USA"
+
+[[estados]]
+codigo = "IN"
+nombre = "Indiana"
+pais = "USA"
+
+[[estados]]
+codigo = "IA"
+nombre = "Iowa"
+pais = "USA"
+
+[[estados]]
+codigo = "KS"
+nombre = "Kansas"
+pais = "USA"
+
+[[estados]]
+codigo = "KY"
+nombre = "Kentucky"
+pais = "USA"
+
+[[estados]]
+codigo = "LA"
+nombre = "Luisiana"
+pais = "USA"
+
+[[estados]]
+codigo = "ME"
+nombre = "Maine"
+pais = "USA"
+
+[[estados]]
+codigo = "MD"
+nombre = "Maryland"
+pais = "USA"
+
+[[estados]]
+codigo = "MA"
+nombre = "Massachusetts"
+pais = "USA"
+
+[[estados]]
+codigo = "MI"
+nombre = "Míchigan"
+pais = "USA"
+
+[[estados]]
+codigo = "MN"
+nombre = "Minnesota"
+pais = "USA"
+
+[[estados]]
+codigo = "MS"
+nombre = "Misisipi"
+pais = "USA"
+
+[[estados]]
+codigo = "MO"
+nombre = "Misuri"
+pais = "USA"
+
+[[estados]]
+codigo = "MT"
+nombre = "Montana"
+pais = "USA"
+
+[[estados]]
+codigo = "NE"
+nombre = "Nebraska"
+pais = "USA"
+
+[[estados]]
+codigo = "NV"
+nombre = "Nevada"
+pais = "USA"
+
+[[estados]]
+codigo = "NJ"
+nombre = "Nueva Jersey"
+pais = "USA"
+
+[[estados]]
+codigo = "NY"
+nombre = "Nueva York"
+pais = "USA"
+
+[[estados]]
+codigo = "NH"
+nombre = "Nuevo Hampshire"
+pais = "USA"
+
+[[estados]]
+codigo = "NM"
+nombre = "Nuevo México"
+pais = "USA"
+
+[[estados]]
+codigo = "OH"
+nombre = "Ohio"
+pais = "USA"
+
+[[estados]]
+codigo = "OK"
+nombre = "Oklahoma"
+pais = "USA"
+
+[[estados]]
+codigo = "OR"
+nombre = "Oregón"
+pais = "USA"
+
+[[estados]]
+codigo = "PA"
+nombre = "Pensilvania"
+pais = "USA"
+
+[[estados]]
+codigo = "RI"
+nombre = "Rhode Island"
+pais = "USA"
+
+[[estados]]
+codigo = "TN"
+nombre = "Tennessee"
+pais = "USA"
+
+[[estados]]
+codigo = "TX"
+nombre = "Texas"
+pais = "USA"
+
+[[estados]]
+codigo = "UT"
+nombre = "Utah"
+pais = "USA"
+
+[[estados]]
+codigo = "VT"
+nombre = "Vermont"
+pais = "USA"
+
+[[estados]]
+codigo = "VA"
+nombre = "Virginia"
+pais = "USA"
+
+[[estados]]
+codigo = "WV"
+nombre = "Virginia Occidental"
+pais = "USA"
+
+[[estados]]
+codigo = "WA"
+nombre = "Washington"
+pais = "USA"
+
+[[estados]]
+codigo = "WI"
+nombre = "Wisconsin"
+pais = "USA"
+
+[[estados]]
+codigo = "WY"
+nombre = "Wyoming"
+pais = "USA"
+
+[[estados]]
+codigo = "ON"
+nombre = "Ontario "
+pais = "CAN"
+
+[[estados]]
+codigo = "QC"
+nombre = " Quebec "
+pais = "CAN"
+
+[[estados]]
+codigo = "NS"
+nombre = " Nueva Escocia"
+pais = "CAN"
+
+[[estados]]
+codigo = "NB"
+nombre = "Nuevo Brunswick "
+pais = "CAN"
+
+[[estados]]
+codigo = "MB"
+nombre = " Manitoba"
+pais = "CAN"
+
+[[estados]]
+codigo = "BC"
+nombre = " Columbia Británica"
+pais = "CAN"
+
+[[estados]]
+codigo = "PE"
+nombre = " Isla del Príncipe Eduardo"
+pais = "CAN"
+
+[[estados]]
+codigo = "SK"
+nombre = " Saskatchewan"
+pais = "CAN"
+
+[[estados]]
+codigo = "AB"
+nombre = " Alberta"
+pais = "CAN"
+
+[[estados]]
+codigo = "NL"
+nombre = " Terranova y Labrador"
+pais = "CAN"
+
+[[estados]]
+codigo = "NT"
+nombre = " Territorios del Noroeste"
+pais = "CAN"
+
+[[estados]]
+codigo = "YT"
+nombre = " Yukón"
+pais = "CAN"
+
+[[estados]]
+codigo = "UN"
+nombre = " Nunavut"
+pais = "CAN"
